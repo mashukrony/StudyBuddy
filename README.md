@@ -1,4 +1,4 @@
-# study_auth_app
+# StudyBuddy
 
 A new Flutter project.
 
