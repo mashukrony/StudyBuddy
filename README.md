@@ -24,11 +24,6 @@
 
 
 
-🚀 Try It Out 
-
-1. *Demo Video*: [Watch on YouTube](https://youtu.be/LwaVYusEjWw)  
-
-
 📜 License 
 
 MIT © Mashuk Al Hossain](https://github.com/mashukrony)  
