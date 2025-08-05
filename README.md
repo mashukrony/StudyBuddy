@@ -26,7 +26,7 @@
 
 📜 License 
 
-MIT © Mashuk Al Hossain](https://github.com/mashukrony)  
+MIT © [Mashuk Al Hossain](https://github.com/mashukrony)  
 
 
 
