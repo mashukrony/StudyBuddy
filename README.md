@@ -5,7 +5,7 @@
 [![StudyBuddy Demo Video](https://img.youtube.com/vi/LwaVYusEjWw/maxresdefault.jpg)](https://youtu.be/LwaVYusEjWw)  
 *Click the thumbnail above to watch the demo (3 min walkthrough).*  
 
-
+---
 
 ✨ Features 
 
@@ -15,7 +15,7 @@
 ✔ *User-Friendly*: Intuitive UI.  
 ✔ *User Profile*: Update your display name (synced via Firebase).  
 
-
+---
 
 🛠️ Technologies 
 
@@ -23,6 +23,7 @@
 • *Backend*: Firebase (Authentication, Firestore)  
 • *Tools*: Android Studio(Emulator), Figma (UI Design)  
 
+---
 
 # 📦 Database Structure (Firebase) 
 ```dart
@@ -50,11 +51,13 @@
 }
 ```
 
+---
+
 📜 License 
 
 MIT © [Mashuk Al Hossain](https://github.com/mashukrony)  
 
-
+---
 
 🎨 Design Notes 
 
@@ -62,6 +65,7 @@ MIT © [Mashuk Al Hossain](https://github.com/mashukrony)
 • Pie charts built with `fl_chart` package.  
 • Modular codebase for easy scaling.  
 
+---
 
 💡 Why StudyBuddy?  
 
@@ -69,7 +73,7 @@ MIT © [Mashuk Al Hossain](https://github.com/mashukrony)
 • *Reduced missed deadlines* by 60% with automated alerts.  
 • Built for students, by a student—no bloated features.  
 
-
+---
 
 🎯 Pro Tips
 
