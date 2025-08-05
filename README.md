@@ -53,12 +53,6 @@
 
 ---
 
-📜 License 
-
-MIT © [Mashuk Al Hossain](https://github.com/mashukrony)  
-
----
-
 🎨 Design Notes 
 
 • Uses *Firebase Auth* for secure login.  
