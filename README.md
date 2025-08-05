@@ -64,6 +64,7 @@ MIT © [Mashuk Al Hossain](https://github.com/mashukrony)
 
 
 💡 Why StudyBuddy?  
+
 • *80% faster* task tracking vs. manual notes (user feedback).  
 • *Reduced missed deadlines* by 60% with automated alerts.  
 • Built for students, by a student—no bloated features.  
