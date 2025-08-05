@@ -70,11 +70,6 @@ MIT © [Mashuk Al Hossain](https://github.com/mashukrony)
 
 
 
-## **📜 License**  
-MIT © [Your Name](https://github.com/your-username)  
-
-
-
 🎯 Pro Tips
 • *Debugging*: Run `flutter clean` if dependencies fail.  
 • *Firebase Rule*: Enable Auth-based security in Firestore.  
