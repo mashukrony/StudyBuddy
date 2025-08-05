@@ -63,7 +63,7 @@ MIT © [Mashuk Al Hossain](https://github.com/mashukrony)
 • Modular codebase for easy scaling.  
 
 
-#💡 Why StudyBuddy?  
+💡 Why StudyBuddy?  
 • *80% faster* task tracking vs. manual notes (user feedback).  
 • *Reduced missed deadlines* by 60% with automated alerts.  
 • Built for students, by a student—no bloated features.  
@@ -75,7 +75,7 @@ MIT © [Your Name](https://github.com/your-username)
 
 
 
-#🎯 Pro Tips
+🎯 Pro Tips
 • *Debugging*: Run `flutter clean` if dependencies fail.  
 • *Firebase Rule*: Enable Auth-based security in Firestore.  
 • *Extend*: Add Google Calendar sync (next milestone?).  
