@@ -34,5 +34,5 @@ MIT © [Mashuk Al Hossain](https://github.com/mashukrony)
 
 • Uses *Firebase Auth* for secure login.  
 • Pie charts built with `fl_chart` package.  
-• Modular codebase** for easy scaling.  
+• Modular codebase for easy scaling.  
 
